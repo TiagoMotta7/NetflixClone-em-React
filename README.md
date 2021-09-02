@@ -14,10 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Telas
 
 <h1 align="center">
-    <img src="" />
-    <img  src="" />
-    <img  src="" />
-    <img  src="" />
+    <img src="Imagens e vídeos/Screenshot_1.png" />
+    <img  src="Imagens e vídeos/Screenshot_2.png" />
+    <img  src="Imagens e vídeos/Screenshot_3.png" />
 </h1>
 
 ## 💻 Projeto
